@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shansharma24/Health-dashoard.git](https://github.com/shansharma24/Health-dashoard.git)
+- 👨‍💻 All of my projects are available at ((https://github.com/shansharma24/Smart-krishi))
 
 - 📫 How to reach me **shansharma1287@gmail.com**
 
