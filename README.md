@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHAN SHARMA</h1>
-<h3 align="center"> Passionated to be a DevOps professional</h3>
+<h3 align="center"> Passionated to be a Software Engineer professional</h3>
 
 
 
