@@ -1,274 +1,198 @@
-<div align="center">
+<h1 align="center">
+Hi 👋, I'm Shan Sharma
+</h1>
 
-# 🚀 FLOYD SCHOOL
-
-### Learn • Build • Innovate
+<h3 align="center">
+Full Stack MERN Developer • Software Engineer • AI Enthusiast
+</h3>
 
 <p align="center">
-An AI-powered modern EdTech platform helping students learn industry-ready skills through hands-on projects and real-world learning.
+Building scalable web applications, integrating AI into products, and solving real-world problems through technology.
 </p>
 
-<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-Framework-000000?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel"/>
-<img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge"/>
+<p align="center">
 
-<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;AI+Integration+Enthusiast;Hackathon+Winner;Open+Source+Contributor;Future+Software+Engineer" />
 
-🌐 **Live Website**
-
-### https://floydschool.in
+</p>
 
 ---
 
-</div>
+# 🚀 About Me
 
-# ✨ Overview
+🎓 Final Year B.Tech Student
 
-Floyd School is a next-generation learning platform designed for students who want practical knowledge instead of traditional theory.
+💻 Full Stack MERN Developer
 
-The platform focuses on
+🤖 Passionate about AI Integration & Modern Web Technologies
 
-- 🎯 Industry Ready Courses
-- 🤖 AI Assisted Learning
-- 💻 Real Projects
-- 📚 Structured Curriculum
-- 🎥 Premium Course Experience
-- 🔐 Secure Authentication
-- 💳 Online Payments
-- 📱 Responsive Design
+🏆 Multiple Hackathon Winner
 
----
+🌱 Currently learning
 
-# 🎥 Preview
+- Data Structures & Algorithms
+- System Design
+- Cloud Computing
+- AI Engineering
 
-> Add your screenshots here.
+🎯 Goal
 
-| Home | Dashboard |
-|------|-----------|
-| ![](assets/home.png) | ![](assets/dashboard.png) |
+Become a Software Engineer building products used by millions.
 
 ---
 
-# 🔥 Features
+# 🌐 Portfolio
 
-## 👨‍🎓 Student
-
-- Course Enrollment
-- Watch Premium Lectures
-- Responsive Dashboard
-- Secure Login
-- Google Authentication
-- Progress Tracking
-- Mobile Friendly
+Coming Soon...
 
 ---
 
-## 👨‍💼 Admin
+# 🚀 Current Project
 
-- Manage Courses
-- Upload Lectures
-- Student Management
-- Analytics
-- Payment Monitoring
-- Course Publishing
+## Floyd School
 
----
+An AI-powered EdTech platform helping students learn modern technologies through practical learning.
 
-## 💳 Payment
+### Features
 
+- Authentication
+- Google Login
 - Razorpay Integration
-- Secure Checkout
-- Order Verification
-- Payment Status Tracking
+- Admin Dashboard
+- Student Dashboard
+- Course Management
+- Responsive Design
 
 ---
 
-## 🔐 Authentication
+# 💻 Tech Stack
 
-- JWT Authentication
-- Google OAuth
-- Protected Routes
-- Secure Sessions
+### Frontend
 
----
+<p>
 
-# 🏗 Tech Stack
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite"/>
 
-| Frontend | Backend | Database | Deployment |
-|-----------|----------|------------|------------|
-| React.js | Node.js | MongoDB | Vercel |
-| TailwindCSS | Express.js | Mongoose | Render |
+</p>
 
----
+### Backend
 
-# 📂 Project Structure
+<p>
 
-```
-FloydSchool/
-│
-├── client/
-│   ├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── hooks/
-│   └── assets/
-│
-├── server/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   └── config/
-│
-└── README.md
-```
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
----
+</p>
 
-# ⚡ Installation
+### Database
 
-Clone the repository
+<p>
 
-```bash
-git clone https://github.com/YOUR_USERNAME/FloydSchool.git
-```
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
-Go inside
+</p>
 
-```bash
-cd FloydSchool
-```
+### Programming Languages
 
-Install dependencies
+<p>
 
-```bash
-npm install
-```
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java"/>
 
-Start Frontend
+</p>
 
-```bash
-npm run dev
-```
+### Tools
 
-Start Backend
+<p>
 
-```bash
-npm run server
-```
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel,render"/>
 
----
-
-# 🌍 Environment Variables
-
-Create a `.env`
-
-```env
-PORT=
-
-MONGO_URI=
-
-JWT_SECRET=
-
-GOOGLE_CLIENT_ID=
-
-GOOGLE_CLIENT_SECRET=
-
-RAZORPAY_KEY_ID=
-
-RAZORPAY_KEY_SECRET=
-
-CLIENT_URL=
-```
-
----
-
-# 📈 Performance
-
-✔ Responsive Design
-
-✔ Lazy Loading
-
-✔ Optimized Components
-
-✔ Secure APIs
-
-✔ Fast Page Loading
-
-✔ Modern UI
-
----
-
-# 🚀 Future Plans
-
-- AI Mentor
-- Live Classes
-- Community Discussion
-- Coding Playground
-- Certificates
-- Leaderboard
-- AI Interview Preparation
-- Mobile App
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork Repository
-
-2. Create Branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit
-
-```bash
-git commit -m "Added Feature"
-```
-
-4. Push
-
-```bash
-git push origin feature-name
-```
-
-5. Open Pull Request
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-> GitHub automatically updates these.
+<p align="center">
 
-```md
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/FloydSchool?style=social)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/FloydSchool?style=social)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
 
-![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/FloydSchool)
+</p>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/FloydSchool)
-```
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
-# ❤️ Made With
-
-React • Node • Express • MongoDB • TailwindCSS • Razorpay • Google OAuth
+</p>
 
 ---
 
-<div align="center">
+# 🏆 GitHub Trophies
 
-## ⭐ If you like this project, don't forget to Star the Repository ⭐
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:ff3131&height=120&section=footer"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-</div>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌟 What I Love Building
+
+✅ Full Stack Applications
+
+✅ AI Integrated Products
+
+✅ EdTech Platforms
+
+✅ SaaS Products
+
+✅ Dashboards
+
+✅ REST APIs
+
+✅ Modern UI/UX
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> "The best way to predict the future is to build it."
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f172a,100:ff3131&section=footer"/>
+
+</p>
