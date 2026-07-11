@@ -1,25 +1,33 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:111111,100:ff3131&text=Shan%20Sharma&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B0B0B,100:FF3131&text=Shan%20Sharma&fontColor=FFFFFF&fontSize=58&animation=fadeIn&fontAlignY=40"/>
 
-# 👋 Hey, I'm Shan Sharma
+<h1>Hi 👋 I'm Shan Sharma</h1>
 
-### Software Engineer • Full Stack Developer • AI Enthusiast
+<h3>🚀 Full Stack MERN Developer • Software Engineer • AI Enthusiast</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=FF3131&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;AI+Powered+Products;Hackathon+Winner;Full+Stack+MERN+Developer;Always+Learning+🚀"/>
+<p>
+Building modern web applications, AI-powered products, and solving real-world problems through technology.
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=FF3131&width=800&lines=Full+Stack+MERN+Developer;Building+AI+Powered+Products;15%2B+National+%26+International+Hackathon+Winner;Learning+DSA+%26+System+Design;Always+Building+Something+Awesome+🚀"/>
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=181717"/>
+<a href="https://shan-portfolio-flame.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-111111?style=for-the-badge"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/shan-sharma-726706292/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:shansharma1287@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shansharma24">
+<img src="https://img.shields.io/github/followers/shansharma24?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -33,104 +41,73 @@ Name: Shan Sharma
 
 Role: Software Engineer
 
-Education: B.Tech
+Education: Final Year B.Tech Student
+
+Location: India
 
 Specialization:
-  - Full Stack Development
+  - Full Stack MERN Development
   - AI Integration
   - System Design
 
-Current Focus:
+Currently Learning:
   - Data Structures & Algorithms
-  - Scalable Backend Systems
+  - System Design
   - Cloud Computing
-  - AI Powered Applications
+  - AI Engineering
 
 Mission:
-  Build products that impact millions.
+  Build products used by millions.
 ```
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Currently Building
 
 <div align="center">
 
-# Floyd School
+# 🎓 Floyd School
 
-### Modern AI Powered Learning Platform
+### AI Powered Modern Learning Platform
 
 </div>
 
-### Features
+### ✨ Features
 
-✔ AI Assisted Learning
-
-✔ Secure Authentication
-
-✔ Google OAuth
-
-✔ Razorpay Payments
-
-✔ Admin Dashboard
-
-✔ Student Dashboard
-
-✔ Modern Responsive UI
-
-✔ MERN Stack Architecture
+- 🤖 AI Assisted Learning
+- 🔐 Google Authentication
+- 💳 Razorpay Payment Integration
+- 📚 Course Management
+- 👨‍🎓 Student Dashboard
+- 👨‍💼 Admin Dashboard
+- 📱 Responsive Design
+- ⚡ MERN Stack Architecture
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Tech Arsenal
 
 <div align="center">
 
-## Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,vite"/>
 
-## Backend
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-## Database
+### Database
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
-## Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,java"/>
 
-## Dev Tools
+### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,render,postman,firebase,vscode"/>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,render,firebase,postman,vscode"/>
 
 </div>
 
@@ -138,45 +115,77 @@ Mission:
 
 # 🏆 Achievements
 
-🏆 Multiple Hackathon Winner
+🥇 15+ National & International Hackathon Wins
 
 💻 Full Stack MERN Developer
 
 🤖 AI Enthusiast
 
-🚀 Building Floyd School
+🚀 Founder & Developer of Floyd School
 
-📚 Open Source Learner
+🌱 Passionate about building impactful software
 
 ---
 
-# ⚡ Current Goals
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shansharma24&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=shansharma24&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shansharma24&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shansharma24&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
 
 ```text
-██████████░░░░░░ Learn DSA
+██████████████░░ Crack SDE Internship
 
-████████░░░░░░░ Build AI Products
+████████████░░░ Master DSA
 
-█████████░░░░░ Crack SDE Role
+███████████░░░░ Learn System Design
 
-██████████░░░░ Open Source
+██████████████░ Build AI Products
+
+██████████████░ Grow Floyd School
 ```
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://shan-portfolio-flame.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/shansharma24">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="https://www.linkedin.com/in/shan-sharma-726706292/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:shansharma1287@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -186,10 +195,12 @@ Mission:
 
 <div align="center">
 
-## 💻 Code • Create • Inspire
+### 💭 "Code. Build. Learn. Repeat."
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-</div>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:111111,100:ff3131"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0B0B0B,100:FF3131"/>
+
+</div>
