@@ -153,21 +153,6 @@ Mission:
 
 ---
 
-# 🎯 2026 Goals
-
-```text
-██████████████░░ Crack SDE Internship
-
-████████████░░░ Master DSA
-
-███████████░░░░ Learn System Design
-
-██████████████░ Build AI Products
-
-██████████████░ Grow Floyd School
-```
-
----
 
 # 🌐 Connect With Me
 
