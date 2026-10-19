@@ -91,8 +91,6 @@ An agricultural technology initiative focused on applying software to real-world
 
 
 
-Generates a snake game from a github user contributions graph
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
