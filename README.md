@@ -3,14 +3,14 @@
 
 # Hi, I'm Shan 👋
 
-### Full-Stack Developer | Backend Engineering | AI Integration
+### Full-Stack Developer | Backend Engineering | Web Designer
 
 Building scalable applications, intelligent products, and systems that solve real-world problems.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shansharma24)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
 
@@ -22,12 +22,11 @@ Building scalable applications, intelligent products, and systems that solve rea
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year B.Tech student.
 - 💻 Full-stack developer specializing in the MERN stack.
 - 🏗️ Interested in backend architecture, system design, and scalable applications.
 - 🔐 Experienced in developing REST APIs, authentication, and payment integration.
 - 🚀 Contributed to **Floyd School**, an EdTech platform used by 500+ users.
-- 🌾 Working on ideas in AgriTech, including Smart Rishi and ORCA AgriVision.
+- 🌾 Working on ideas in Smart Krishi, including ORCA and 3D Room.
 - 🏆 Won 15+ national and international hackathons.
 - 🤖 Exploring AI integration, LLM applications, and computer vision.
 - 🌱 Currently strengthening DSA, backend engineering, cloud, and distributed systems.
@@ -50,35 +49,13 @@ An education platform with multi-role dashboards and learning-management workflo
 
 [Live Website](https://floydschool.in)
 
-### 🌊 ORCA AgriVision
-**AI & Computer Vision Crop Diagnosis Platform**
-
-An AgriTech project focused on crop-image analysis, plant-disease detection, and leaf-health assessment.
-
-**Focus:** Python · Computer Vision · Deep Learning
-
-[View Repository](YOUR_ORCA_REPOSITORY_URL)
-
 ### 🌱 Smart Rishi
 **AgriTech | Product Development**
 
 An agricultural technology initiative focused on applying software to real-world farming challenges. The project has been described as pre-incubated at IIT Delhi.
 
-[View Project](YOUR_SMART_RISHI_URL)
+[View Project](https://drive.google.com/drive/folders/1FBXlIYlyKzErJLGw7y2PMXkswN663k4B)
 
-### 🛰️ ORBIT
-**Distributed Systems Intelligence Platform**
-
-A flagship project planned around application observability and backend system design.
-
-- Distributed tracing and service dependency mapping.
-- Event-driven telemetry processing.
-- Incident investigation and reliability monitoring.
-- AI-assisted analysis of application failures.
-
-**Planned stack:** TypeScript · Node.js · PostgreSQL · Redis · OpenTelemetry · Docker
-
-[View Repository](YOUR_ORBIT_REPOSITORY_URL)
 
 ---
 
@@ -113,37 +90,15 @@ A flagship project planned around application observability and backend system d
 
 <div align="center">
 
-## 📊 GitHub Statistics
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
 I'm interested in collaborating on full-stack applications, backend infrastructure, system design, and AI-powered products.
 
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
-- 💻 GitHub: [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
-- 📸 Instagram: [Follow me](YOUR_INSTAGRAM_URL)
-- 🌐 Portfolio: [Explore my work](YOUR_PORTFOLIO_URL)
-- 📧 Email: YOUR_PUBLIC_EMAIL
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/shan-sharma-726706292/)
+- 💻 GitHub: [Explore my repositories](https://github.com/shansharma24)
+- 🌐 Portfolio: [Explore my work](https://portfolio-animated-dun.vercel.app/)
+- 📧 Email: shansharma1287@gmail.com
 
 <div align="center">
 
