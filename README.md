@@ -112,10 +112,10 @@ An agricultural technology initiative focused on applying software to real-world
 
 I'm interested in collaborating on full-stack applications, backend infrastructure, system design, and AI-powered products.
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/shan-sharma-726706292/)
-- 💻 GitHub: [Explore my repositories](https://github.com/shansharma24)
-- 🌐 Portfolio: [Explore my work](https://portfolio-animated-dun.vercel.app/)
-- 📧 Email: shansharma1287@gmail.com
+ 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/shan-sharma-726706292/)
+ 💻 GitHub: [Explore my repositories](https://github.com/shansharma24)
+ 🌐 Portfolio: [Explore my work](https://portfolio-animated-dun.vercel.app/)
+ 📧 Email: shansharma1287@gmail.com
 
 <div align="center">
 
