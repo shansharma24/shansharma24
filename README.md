@@ -7,7 +7,6 @@
 
 Building scalable applications, intelligent products, and systems that solve real-world problems.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shansharma24)
@@ -90,14 +89,6 @@ An agricultural technology initiative focused on applying software to real-world
 
 <div align="center">
 
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shansharma24&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 
 
