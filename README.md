@@ -67,8 +67,7 @@ An agricultural technology initiative focused on applying software to real-world
   <div style="overflow: hidden; white-space: nowrap; width: 100%;">
     <div style="display: inline-block; animation: scroll 22s linear infinite;">
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,redux,nodejs,express,mongodb,mysql,redis,firebase,aws,docker,git,github,postman,python,cpp&perline=21" alt="Tech Stack" />
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,redux,nodejs,express,mongodb,mysql,redis,firebase,aws,docker,git,github,postman,python,cpp&perline=21" alt="Tech Stack" />
-    </div>
+      </div>
   </div>
 </div>
 
