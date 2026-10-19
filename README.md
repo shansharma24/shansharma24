@@ -91,6 +91,16 @@ An agricultural technology initiative focused on applying software to real-world
 <div align="center">
 
 
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shansharma24&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+
+
 ## 🤝 Let's Connect
 
 I'm interested in collaborating on full-stack applications, backend infrastructure, system design, and AI-powered products.
