@@ -47,7 +47,7 @@ An education platform with multi-role dashboards and learning-management workflo
 
 [Live Website](https://floydschool.in)
 
-### 🌱 Smart Rishi
+### 🌱 Smart Krishi
 **AgriTech | Product Development**
 
 An agricultural technology initiative focused on applying software to real-world farming challenges. The project has been described as pre-incubated at IIT Delhi.
